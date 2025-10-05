@@ -1,8 +1,8 @@
 # Custom Pickguard for Sire T3 Telecaster
 
 <p align="center">
-  <img src="./Reference/Example1.jpeg" width="400" alt="Finished Pickguard Example 1">
-  <img src="./Reference/Example2.jpeg" width="400" alt="Finished Pickguard Example 2">
+  <img src="https://github.com/user-attachments/assets/07b998d5-5d69-4478-954b-19e7f91d379c" width="400" alt="Finished Pickguard Example 1">
+  <img src="https://github.com/user-attachments/assets/ac99cdb4-b497-4160-bd4c-82751c0eeec6" width="400" alt="Finished Pickguard Example 2">
 </p>
 
 ## Overview
