@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository contains the design files for a custom, direct-fit replacement pickguard for the Sire T3 Telecaster-style guitar.
+This repository contains the design files for a custom, direct-fit replacement pickguard for the Sire T3 Telecaster.
 
 The stock pickguard on the Sire T3 does not adhere to standard Fender Telecaster specifications. This project was created to provide a verified, ready-to-use template for anyone looking to create their own pickguard for their Sire T3, whether through 3D printing, CNC machining, or manual cutting.
 
@@ -26,7 +26,7 @@ The files are organized into folders based on their purpose:
     * `Sire T3 Pickguard.stl`: A high-resolution mesh file, ready to be sliced for 3D printing.
 
 * **/Reference/**
-    * `Sire T3 Pickguard Scan.jpg`: The original high-resolution photo/scan of the stock pickguard that was used to trace and model this design.
+    * `Sire T3 Pickguard Scan.jpg`: The original high-resolution photo/scan of the stock pickguard that was used to spline fit.
 
 ## Instructions for Use
 
@@ -46,9 +46,8 @@ Before committing to a final piece, it is **highly recommended** to verify the f
 ### 3. CNC Routing / Laser Cutting
 
 The `.dxf` file is ready to be used with a CNC router or laser cutter. **File units are in millimeters!**
-* **Material:** Standard pickguard blanks are ideal if routing... if lasercutting, you can reasonably use 1/8" or 1/16" acrylic. That's what I used.
-* **Tooling:** Use a fine-bit router for clean edges. If laser cutting, you may need to do a finishing pass to clean up the edges.
-* **Countersinking:** Remember to countersink the screw holes after cutting for a flush fit with standard pickguard screws.
+* **Material:** Standard pickguard blanks are ideal if routing... if lasercutting, you can reasonably use 1/8" or 1/16" acrylic. That's what I used for laser cutting.
+* **Countersinking:** Remember to countersink the screw holes for a flush fit with standard pickguard screws.
 
 ## Notes & Disclaimer
 
