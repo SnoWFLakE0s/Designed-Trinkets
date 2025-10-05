@@ -1,23 +1,23 @@
 # Custom Pickguard for Sire T3 Telecaster
 
-![Finished Pickguard on Sire T3](path/to/your/image.jpg)
-*A placeholder for an image of your finished pickguard on the guitar.*
+<p align="center">
+  <img src="./Reference/Example1.jpeg" width="400" alt="Finished Pickguard Example 1">
+  <img src="./Reference/Example2.jpeg" width="400" alt="Finished Pickguard Example 2">
+</p>
 
 ## Overview
 
-This repository contains the design files for a custom, direct-fit replacement pickguard for the **Sire T3 Telecaster-style guitar**.
+This repository contains the design files for a custom, direct-fit replacement pickguard for the Sire T3 Telecaster-style guitar.
 
-As many owners have discovered, the stock pickguard on the Sire T3 does not adhere to standard Fender Telecaster specifications. This means that common off-the-shelf replacement pickguards will not align correctly with the screw holes, neck pocket, and control plate.
-
-This project was created to provide a verified, ready-to-use template for anyone looking to create their own pickguard for their Sire T3, whether through 3D printing, CNC machining, or manual cutting.
+The stock pickguard on the Sire T3 does not adhere to standard Fender Telecaster specifications. This project was created to provide a verified, ready-to-use template for anyone looking to create their own pickguard for their Sire T3, whether through 3D printing, CNC machining, or manual cutting.
 
 ## Files Included
 
 The files are organized into folders based on their purpose:
 
 * **/CAD/**
-    * `Sire T3 Pickguard.step`: A universal solid model for easy modification in most CAD software (e.g., SolidWorks, Inventor, FreeCAD).
-    * `Sire T3 Pickguard.f3d`: The original, parametric Autodesk Fusion 360 file. This is the best file to use for modifications if you have Fusion 360.
+    * `Sire T3 Pickguard.step`: A universal solid model for easy modification in most CAD software.
+    * `Sire T3 Pickguard.f3d`: The original, parametric Autodesk Fusion file. This is the best file to use for modifications if you have Fusion.
 
 * **/CNC/**
     * `Sire T3 Pickguard.dxf`: A 2D vector file suitable for CNC routers, laser cutters, or for printing as a paper template to check the fit.
@@ -43,10 +43,10 @@ Before committing to a final piece, it is **highly recommended** to verify the f
 * **Infill:** 20-40% is sufficient.
 * **Bed Size:** Ensure your printer's build plate is large enough to accommodate the pickguard (approx. 220mm x 220mm). I was able to just fit it within my FlashForge AD5MP.
 
-### 3. CNC Machining / Laser Cutting
+### 3. CNC Routing / Laser Cutting
 
-The `.dxf` file is ready to be used with a CNC router or laser cutter.
-* **Material:** Standard 3-ply or single-ply plastic pickguard blanks are ideal.
+The `.dxf` file is ready to be used with a CNC router or laser cutter. **File units are in millimeters!**
+* **Material:** Standard pickguard blanks are ideal if routing... if lasercutting, you can reasonably use 1/8" or 1/16" acrylic. That's what I used.
 * **Tooling:** Use a fine-bit router for clean edges. If laser cutting, you may need to do a finishing pass to clean up the edges.
 * **Countersinking:** Remember to countersink the screw holes after cutting for a flush fit with standard pickguard screws.
 
