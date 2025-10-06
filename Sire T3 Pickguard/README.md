@@ -13,11 +13,9 @@ The stock pickguard on the Sire T3 does not adhere to standard Fender Telecaster
 
 ## Files Included
 
-The files are organized into folders based on their purpose:
-
 * **/CAD/**
-    * `Sire T3 Pickguard.step`: A universal solid model for easy modification in most CAD software.
-    * `Sire T3 Pickguard.f3d`: The original, parametric Autodesk Fusion file. This is the best file to use for modifications if you have Fusion.
+    * `Sire T3 Pickguard.step`: It's a STEP file... import into any sensible CAD suite.
+    * `Sire T3 Pickguard.f3d`: The original, parametric Autodesk Fusion file.
 
 * **/CNC/**
     * `Sire T3 Pickguard.dxf`: A 2D vector file suitable for CNC routers, laser cutters, or for printing as a paper template to check the fit.
@@ -32,7 +30,7 @@ The files are organized into folders based on their purpose:
 
 ### 1. Verification (Recommended)
 
-Before committing to a final piece, it is **highly recommended** to verify the fit.
+Before committing to a final piece, it is highly recommended to verify the fit.
 1.  Print the `.dxf` file at a 1:1 scale on paper.
 2.  Cut it out and lay it on your guitar to check the alignment of all screw holes, the neck pocket, and the pickup cutout.
 
